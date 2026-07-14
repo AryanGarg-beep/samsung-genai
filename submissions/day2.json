@@ -1,0 +1,19 @@
+{
+  "day": 2,
+  "student_name": "Aryan Garg",
+  "github": "AryanGarg-beep",
+  "lab1_scenario": "A",
+  "lab1_prompt": "You are a samsung Care+ expert\n\nIdentify, Pacify and resolve customer complains and rebuild trust\n\nContext: A customer's 3rd Galaxy Watch battery complaint this month, still under warranty.\n\nConstraints: Under 100 words. Do not promise a refund. Must include a link and instructions to book a free repair. Double check to ensure all customer concerns are addressed. Only address the next concern after the last. Check with the customer at the end for any more concerns. Do not deviate from company policies.\n\nTone: Professional, polite and concise. Sound natural and not scripted\n\nOutput format: Should be as a ready to send in an email body or chat window. Do not include any placeholders or extra information outside of the known facts.",
+  "lab1_output_met_constraints": true,
+  "lab1_extra_scenarios_done": 2,
+  "lab2_problem": "Galaxy Buds distribution centre — shipment/hold/restock",
+  "lab2_naive_output_summary": "",
+  "lab2_cot_prompt": "",
+  "lab2_cot_output_summary": "",
+  "better_approach": "",
+  "stretch_done": false,
+  "stretch_react_prompt": "",
+  "tasks_completed": 2,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-14T09:38:54.344Z"
+}
