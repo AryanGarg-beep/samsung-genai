@@ -1,0 +1,52 @@
+{
+  "day": 4,
+  "student_name": "Aryan Garg",
+  "github": "AryanGarg-beep",
+  "incidents": [
+    {
+      "id": "A",
+      "failure_type": "Hallucination",
+      "principle": "Reliability",
+      "justification": "Presenting false data with confidence = hallucination. This shows how unreliable the model is."
+    },
+    {
+      "id": "B",
+      "failure_type": "Privacy Violation",
+      "principle": "Privacy",
+      "justification": "This is clearly a privacy violation. No debate needed. They broke a very explicit law."
+    },
+    {
+      "id": "C",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Safety",
+      "justification": "Safety issue with the use of video generation AI, compromising the safety of the company"
+    },
+    {
+      "id": "D",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "Bis during training led to a lack of fairness towards female candidates"
+    },
+    {
+      "id": "E",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Human Oversight",
+      "justification": "There was a bias that was developed within the system that wasn't discovered due to human oversight"
+    },
+    {
+      "id": "F",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Security",
+      "justification": "This was misinformation spread that lead to a security breach"
+    }
+  ],
+  "justifications_written": 6,
+  "stretch_done": true,
+  "stretch_company": "OpenAI",
+  "stretch_failure_type": "Privacy Violation",
+  "stretch_principle": "Privacy",
+  "stretch_notes": "OpenAI revealed in 2024 that conversations with ChatGPT were stored and evaluated to filter harmful content and aid in model training. This is a clear violation of privacy laws",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-16T06:22:35.977Z"
+}
